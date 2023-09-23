@@ -15,9 +15,9 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Finishing my Smarthome 😅**
+- 🔭 I’m currently working on **My Rooted phone aka. Getting Kali Tools to work ☠️**
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Web development & Android Development**
 
 - 💬 Ask me about **Linux, Windows problems like driver issues and stuff**
 
