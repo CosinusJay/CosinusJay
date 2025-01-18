@@ -14,7 +14,7 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=CosinusJay&style=for-the-badge&color=lightgrey"/>
   </a>
   
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **contact@cosinusjay.dev**
 
