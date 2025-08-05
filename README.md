@@ -13,6 +13,10 @@
   <a href="https://github.com/CosinusJay">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=CosinusJay&style=for-the-badge&color=lightgrey"/>
   </a>
+
+<br>
+<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/CosinusJay.png" alt="Your Image Badge" />
   
 - 🌱 I’m currently learning **Kotlin**
 
