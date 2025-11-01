@@ -16,7 +16,7 @@
 
 <br>
 <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/CosinusJay.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/CosinusJay.png" alt="TryHackMe Badge" />
   
 - 🌱 I’m currently learning **Kotlin**
 
