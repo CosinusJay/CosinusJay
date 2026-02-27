@@ -16,7 +16,7 @@
 
 <br>
 <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/CosinusJay.png?style=flat&cache-control=no-cache" alt="TryHackMe Badge" />
+![TryHackMe stats](https://raw.githubusercontent.com/CosinusJay/CosinusJay/master/assets/thm_propic.png)
   
 - 🌱 I’m currently learning **Kotlin**
 
