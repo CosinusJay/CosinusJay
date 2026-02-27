@@ -18,6 +18,8 @@
 <br>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/CosinusJay.png?style=flat&cache-control=no-cache" alt="TryHackMe Badge" />  
+
+
 - 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **contact@cosinusjay.dev**
